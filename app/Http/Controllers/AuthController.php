@@ -34,6 +34,7 @@ class AuthController extends Controller
 
             return 'Success!';
         } else {
+            dump($response->json());
             return 'Oops! Could not authenticate app.';
         }
     }
