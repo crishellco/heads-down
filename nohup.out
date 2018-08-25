@@ -1,0 +1,3 @@
+69886:C 24 Aug 18:40:12.683 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+69886:M 24 Aug 18:40:12.685 * Increased maximum number of open files to 10032 (it was originally set to 4864).
+69886:M 24 Aug 18:40:12.686 # Creating Server TCP listening socket *:6379: bind: Address already in use
