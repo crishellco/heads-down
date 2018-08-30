@@ -3,9 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\User;
-use Zttp\Zttp;
-use Carbon\Carbon;
 use App\Jobs\BeginSession;
 
 class HeadsDownController extends Controller

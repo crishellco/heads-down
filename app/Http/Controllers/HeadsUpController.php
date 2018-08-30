@@ -3,8 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\User;
-use Zttp\Zttp;
 use App\Jobs\EndSession;
 
 class HeadsUpController extends Controller
